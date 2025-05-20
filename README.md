@@ -4,3 +4,4 @@ A simple web user interface for displaying my personal ratings and notes for ani
 
 Developer Note:
 For testing and to read .xlsx files locally, enter `about:config` in Firefox and temporarily set to false: `security.fileuri.strict_origin_policy`
+ 
