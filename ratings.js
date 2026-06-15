@@ -1,3 +1,12 @@
+/*
+Ratings
+A simple web user interface for displaying personal ratings and notes for anime, movies, and television shows.
+All data is stored in .xlsx files and read using the SheetsJS library.
+
+For testing and to read .xlsx files locally, enter about:config in Firefox and temporarily set to false:
+security.fileuri.strict_origin_policy
+*/
+
 const TOP_RATINGS_PATH = './sheets/top_ratings.xlsx';
 const ANIME_RATINGS_PATH = './sheets/anime_ratings.xlsx';
 const MOVIE_RATINGS_PATH = './sheets/movie_ratings.xlsx';
